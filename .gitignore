@@ -37,3 +37,4 @@ wp-content/wp-cache-config.php
 /images
 /fonts
 index.html
+source/package-lock.json
